@@ -8,3 +8,4 @@ frontend
 /frontend/**
 frontend/.env
 /frontend/.env
+/Backend/Dockerfile
