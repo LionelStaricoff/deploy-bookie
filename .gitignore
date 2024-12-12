@@ -6,3 +6,5 @@
 /frontend
 frontend
 /frontend/**
+frontend/.env
+/frontend/.env
