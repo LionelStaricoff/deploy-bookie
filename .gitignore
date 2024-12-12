@@ -4,3 +4,5 @@
 /Backend/**/*.properties
 /**/*.properties
 /frontend
+frontend
+/frontend/**
